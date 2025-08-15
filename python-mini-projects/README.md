@@ -57,3 +57,5 @@ python-mini-projects/
 - Unit tests (`pytest`) for tiny functions (e.g., reverser, dice range).
 - Add a CLI wrapper with `argparse` for length, sides, etc.
 - Package a few as `pipx`-installable utilities.
+
+Have fun!

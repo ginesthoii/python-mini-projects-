@@ -8,6 +8,7 @@ Mini, self-contained Python scripts that are perfect for quick practice or demos
  **dice/** — Six-sided dice roller.
  **reverse_text/** — Reverse any input string.
  **weather/** — Minimal OpenWeather client (needs API key - instructions below).
+https://openweathermap.org/api
 
 ## Quick Start (VS Code)
 1. Install Python 3.10+ and the VS Code Python extension.
@@ -57,5 +58,6 @@ python-mini-projects/
 - Unit tests (`pytest`) for tiny functions (i.e., reverser, dice range).
 - Add a CLI wrapper with `argparse` for length, sides, etc.
 - Package a few as `pipx`-installable utilities.
+
 
 Have fun!

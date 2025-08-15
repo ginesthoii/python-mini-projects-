@@ -13,24 +13,24 @@ Mini, self-contained Python scripts that are perfect for quick practice or demos
 1. Install Python 3.10+ and the VS Code Python extension.
 2. Clone this repo and open it in VS Code.
 3. (Optional) Create a virtual env:
-bash
+ ```bash
    python -m venv .venv
    # Windows: .venv\Scripts\activate
    # macOS/Linux: source .venv/bin/activate
    pip install -r requirements.txt
-   
+   ```
 4. For **weather/**, set your API key (either export env var or add `.env` at project root):
-   bash
+   ```bash
    # .env file at project root
    OPENWEATHER_API_KEY=your_key_here
-   
+   ```
 5. Run any script from its folder:
-   bash
+   ```bash
    python <scriptname>.py
-   
+   ```
 
 ## Repo Layout
-
+```
 python-mini-projects/
 ├─ password_generator/
 │  ├─ password_generator.py
@@ -51,7 +51,7 @@ python-mini-projects/
 ├─ requirements.txt
 ├─ LICENSE
 └─ README.md
-
+```
 
 ## Suggested Next Additions
 - Unit tests (`pytest`) for tiny functions (i.e., reverser, dice range).

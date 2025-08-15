@@ -1,5 +1,5 @@
-```
-# python-mini-projects
+
+## python-mini-projects
 
 Mini, self-contained Python scripts perfect for quick practice or demos.  
 Each project lives in its own folder and runs in a terminal with one command.
@@ -18,6 +18,7 @@ Each project lives in its own folder and runs in a terminal with one command.
 - **todo_json/** — Minimal to-do list using JSON storage.
 - **stopwatch/** — Basic stopwatch with Enter to start/stop.
 - **word_frequency/** — Counts words with `collections.Counter`.
+
 
 ## Quick Start (VS Code)
 1. Install Python 3.10+ and the VS Code Python extension.

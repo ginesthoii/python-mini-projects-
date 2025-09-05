@@ -1,14 +1,23 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/13194e00-a1f9-4c06-9e87-25541fc230de" width="600" height="350" >
+</p>
 
-# python-mini-projects
+<h1 align="center">Python Mini Projects</h1>
 
-Tiny, self-contained Python scripts that I built for practice, experiments, and fun.
-Each project lives in its own folder and runs with a single command in the terminal.
+<br> 
 
+<p align="center">
+Tiny, self-contained Python scripts that I built for practice, experiments, and fun. <br>  <br>
+Each project lives in its own folder and runs with a single command in the terminal.  <br>  <br>
 Think of this repo as my Python sketchbook — quick ideas, simple tools, and little demos that helped me learn by building.
+</p>
+
+<br>
 
 ---
 
-## What’s Inside
+<h2 align="center">What’s Inside</h2>
+
 - password_generator/ — Create random, secure passwords using letters, digits, and punctuation.
 - countdown/ — A simple countdown timer (powered by time.sleep).
 - dice/ — Roll a six-sided die.

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/13194e00-a1f9-4c06-9e87-25541fc230de" width="600" height="350" >
+  <img src="https://github.com/user-attachments/assets/b41d43ad-950d-4401-91a4-79b211c42d60" width="600" height="350" >
 </p>
 
 <h1 align="center">Python Mini Projects</h1>
@@ -37,3 +37,10 @@ Think of this repo as my Python sketchbook — quick ideas, simple tools, and li
 ## Notes
 - For `qr_generator/` you need `qrcode[pil]` (installed via `requirements.txt`).
 - All scripts are stdlib-only except QR and Weather (`requests`)
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/13194e00-a1f9-4c06-9e87-25541fc230de" width="300" height="300" >
+</p>
+

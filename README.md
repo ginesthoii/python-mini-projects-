@@ -31,7 +31,7 @@ Think of this repo as my Python sketchbook — quick ideas, simple tools, and li
 - stopwatch/ — Start/stop timer with the Enter key.
 - word_frequency/ — Count word frequencies with collections.Counter.
 - mini-metronome/ — A command-line metronome with accented downbeats (using afplay on macOS or simpleaudio elsewhere).
-
+- Watermark/ — Modern, flexible PDF watermarking. Single PDF or whole folder (batch), default watermark (PDF or generated text), customizable pages, locations, rotation. 
 ---
 
 ## Notes

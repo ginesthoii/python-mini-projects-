@@ -27,6 +27,9 @@ Think of this repo as my Python sketchbook — quick ideas, simple tools, and li
 - currency_converter/ — Quick USD → EUR/GBP/JPY converter with static sample rates.
 - file_organizer/ — Sort messy folders by file extension.
 - qr_generator/ — Turn text/URLs into QR codes (needs qrcode[pil]).
+- custom-start-day-calendar/ — Generate calendars with custom week start day (e.g. Sun instead of Mon).
+- monthly-calendar/ — Print a specific month’s calendar in the terminal.
+- yearly-calendar/ — Display the full year’s calendar at once in text format.
 - todo_json/ — Minimal to-do list using JSON storage.
 - stopwatch/ — Start/stop timer with the Enter key.
 - word_frequency/ — Count word frequencies with collections.Counter.
@@ -34,6 +37,7 @@ Think of this repo as my Python sketchbook — quick ideas, simple tools, and li
 - Watermark/ — Modern, flexible PDF watermarking. Single PDF or whole folder (batch), default watermark (PDF or generated text), customizable pages, locations, rotation.
 - Detect-Plagiarism/ - Compare two text files with Dice and Jaccard similarity, stopword filtering, and a simple Tkinter interface.
 - Domain Lookup/ - A tiny CLI to check domain registration data reliably across modern TLDs. (RDAP-first, WHOIS fallback)
+  
 
 ---
 

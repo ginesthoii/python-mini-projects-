@@ -32,7 +32,8 @@ Think of this repo as my Python sketchbook — quick ideas, simple tools, and li
 - word_frequency/ — Count word frequencies with collections.Counter.
 - mini-metronome/ — A command-line metronome with accented downbeats (using afplay on macOS or simpleaudio elsewhere).
 - Watermark/ — Modern, flexible PDF watermarking. Single PDF or whole folder (batch), default watermark (PDF or generated text), customizable pages, locations, rotation.
-- Detect-Plagiarism/ - Compare two text files with Dice and Jaccard similarity, stopword filtering, and a simple Tkinter interface. 
+- Detect-Plagiarism/ - Compare two text files with Dice and Jaccard similarity, stopword filtering, and a simple Tkinter interface.
+- Domain Lookup/ - A tiny CLI to check domain registration data reliably across modern TLDs. (RDAP-first, WHOIS fallback)
 
 ---
 
